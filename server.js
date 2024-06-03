@@ -35,3 +35,10 @@ process.on('unhandledRejection', err => {
     process.exit(1);
   });
 });
+
+//TODO: Implement the following features:
+// 1. Implement maximum login attempt
+// 2. Confirm user Email address after first creation of account
+// 3. Implement two-factor authentication
+
+// TODO: Make package which update package.json to maximum version
